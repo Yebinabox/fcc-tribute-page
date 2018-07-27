@@ -1,0 +1,34 @@
+body{
+  margin: auto;
+  background-color: black;
+}
+
+h1, h3, p{
+  color: white;
+}
+
+#main{
+  display: grid;
+  justify-items: center;
+  min-width: 450px;
+  padding: 1rem;
+}
+
+img{
+  min-width: 450px;
+  width: 100%;
+  max-width: 900px;
+}
+
+#img-div{
+  display: grid;
+  justify-items: center;
+}
+
+#img-caption{
+  margin: auto;
+}
+
+#tribute-info{
+  max-width: 900px;
+}
